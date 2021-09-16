@@ -89,8 +89,8 @@ Police station get notification about accident and direction towards the spot.
 ### User Authentication for Login 
 To access the website, the user has to go through a login page. There is a table “user” stored in the database with username and password. This username also enables the data to load on the site. So, even if someone got access to the main webpage no data will be loaded until the correct username and password is given.
 ## Constraints
-•	Hardware or software environment : Need Arduino Ide to upload code on arduino. Libraries are attached with code.
-•	Availability of resources : IBM Cloud
+1. Hardware or software environment : Need Arduino Ide to upload code on arduino. Libraries are attached with code.
+2. Availability of resources : IBM Cloud
 
 
 
