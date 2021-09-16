@@ -67,11 +67,8 @@ A web database is configured to store the data that are being sent from the embe
 SQL Database in webserver
 ## Web Application 
 A web application has been developed to receive data from embedded device through GSM shield using GPRS connection.  
-URL https://technoutsav2.mybluemix.net/
 
 ![image](https://user-images.githubusercontent.com/32418411/133653068-d9236797-36ea-450d-a7ea-bd8bf72bc61c.png)
-
-Website https://technoutsav2.mybluemix.net/
 
 ![image](https://user-images.githubusercontent.com/32418411/133653137-f49ac9e5-42a4-45e7-805d-cd8d793a97b3.png)
 
